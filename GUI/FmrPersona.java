@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sala de Sistemas
+ * @author Biblioteca
  */
 public class FmrPersona extends javax.swing.JFrame {
 
