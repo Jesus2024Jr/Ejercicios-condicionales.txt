@@ -8,7 +8,7 @@ import formulario.FmrPersona;
 
 /**
  *
- * @author Sala de Sistemas
+ * @author Jesus03
  */
 public class main {
 
